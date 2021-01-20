@@ -1,4 +1,4 @@
-![SecHack365](https://img.shields.io/static/v1?label=SecHack365&message=2020&color=ffd700) ![Heroku](http://heroku-badge.herokuapp.com/?app=sa-plag) [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PyPI version](https://badge.fury.io/py/tokenizecpp.svg)](https://badge.fury.io/py/tokenizecpp)
+[![SecHack365](https://img.shields.io/static/v1?label=SecHack365&message=2020&color=ffd700)](https://sechack365.nict.go.jp/) [![Heroku](http://heroku-badge.herokuapp.com/?app=sa-plag)](https://sa-plag.herokuapp.com/) [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PyPI version](https://badge.fury.io/py/tokenizecpp.svg)](https://badge.fury.io/py/tokenizecpp)
 
 
 
