@@ -1,0 +1,6 @@
+[submodule "WebAPI"]
+	path = WebAPI
+	url = https://github.com/xryuseix/SA-Plag-WebAPI
+[submodule "src/tokenizecpp"]
+	path = src/tokenizecpp
+	url = https://github.com/xryuseix/tokenizecpp
