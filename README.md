@@ -18,5 +18,4 @@ Usage : [https://sa-plag.herokuapp.com/api](https://sa-plag.herokuapp.com/api)
 
 ## Acknowledgements
 
-本研究は国立研究開発法人情報通信研究機構が実施する，セキュリティイノベーター育成プログラムSecHack365 [^1] における研究開発の成果である．
-[^1]: 若手セキュリティイノベーター育成プログラムSecHack365, https://sechack365.nict.go.jp/
+本研究は国立研究開発法人情報通信研究機構が実施する，セキュリティイノベーター育成プログラム[SecHack365](https://sechack365.nict.go.jp/) における研究開発の成果である．
