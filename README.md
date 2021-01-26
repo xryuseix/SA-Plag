@@ -4,7 +4,7 @@
 
 A project to detect plagiarism in competitive programming.
 
-![icon](./images/tsuku4.png)
+<img src="./images/tsuku4.png" width="50%">
 
 ## API
 
