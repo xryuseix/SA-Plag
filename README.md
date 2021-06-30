@@ -14,7 +14,10 @@ Usage : [https://sa-plag.herokuapp.com/api](https://sa-plag.herokuapp.com/api)
 
 ## Paper / Presentation
 
-[commint soon ...](./resources)
+> プログラミングコンテストにおけるソースコードの盗作検知手法の実装と評価
+○石川琉聖（立命館大）・服部祐一（セキュアサイクル）・井上博之（広島市大）・猪俣敦夫（阪大）
+
+[情報通信システムセキュリティ研究会（ICSS）](https://www.ieice.org/ken/paper/20210301YCD4/)  
 
 ## Acknowledgements
 
